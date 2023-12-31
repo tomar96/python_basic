@@ -1,0 +1,16 @@
+a=set()
+a.add(7)
+a.add(8)
+a.add(8)
+a.add((2,5,2))   #we can add the tauple in the set//
+print(a)
+print(len(a))
+a.remove(8)
+a.sort()
+
+print(a)
+print(len(a))
+print(a.pop())
+print(a.clear())
+print(a.union({1,2,3}))
+print(a.intersection({1}))

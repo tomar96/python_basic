@@ -1,0 +1,24 @@
+1.What is Chromosome.
+2.What is crossover and type of crossover.
+3.flow chart of GA
+4.Mutation and type of mutation.
+5. Fitness function.
+6.What is FIS? What is the working of FIS?
+7.Explain Binary Encoding and its types of binary encoding.Also Explain Genetic operators.
+    
+8.What are Genetic Algorithms (GA)? Explain with the maxone Genetic algorithm.
+
+9.Mamdani methods for using fuzzy controller as washing machine.
+
+
+Assigment given by me is very important.....must revise that....
+
+Sabhi bacho ko dena hai CT 3
+
+
+
+
+
+
+
+Explain the Lambda cut sets using zadah with examples.
